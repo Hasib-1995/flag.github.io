@@ -1,0 +1,31 @@
+.sobuj{
+	width:900px;
+	height:500px;
+	background:green;
+	margin: 50px auto;
+	overflow:hidden;
+	position:relative;
+}
+.lal{
+	background:red;
+	width:300px;
+	height:300px;
+	border-radius:150px;
+	position:absolute;
+	bottom:0;
+	right:0;
+	left:0;
+	top:0;
+	margin: auto;
+	overflow:hidden;
+}
+.lal img{
+	width:60%;
+	margin: auto;
+	display:block;
+	position:absolute;
+	bottom:0;
+	right:0;
+	left:0;
+	top:0;
+}
